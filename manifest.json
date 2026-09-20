@@ -1,6 +1,6 @@
 {
-  "min_version": "0.9.2",
-  "latest": "0.9.3",
+  "min_version": "0.9.4",
+  "latest": "0.9.4",
   "url": "https://github.com/gremstard/vextraction/releases/latest",
-  "message": "0.9.3 adds Report a bug (run menu). Optional. 0.9.0 could sink rigs into rock; 0.9.2 or newer is required."
+  "message": "0.9.4 is required. Builds before it shipped without the licence and terms documents, so their legal screen is blank. It also brings sandstorms you can see rolling in, a Crimson Vortex that is actually there, wind that moves your rounds more than gravity does, rebuilt DROPS and lightning, a world map on M, and a graphics quality setting."
 }
