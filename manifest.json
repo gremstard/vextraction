@@ -1,14 +1,14 @@
 {
   "min_version": "0.9.5",
-  "latest": "0.9.5",
+  "latest": "0.9.6",
   "url": "https://github.com/gremstard/vextraction/releases/latest",
-  "message": "0.9.5 is required. Vextraction now has a dedicated server and deployments are played on it, so everyone shares one world. Downloads are now two files per platform: keep the .pck next to the executable. After this update, updates are 1.8 MB instead of 106 MB and a damaged install can repair itself. The training ground still works offline.",
+  "message": "0.9.6 is optional. It stops extracted rigs standing in the desert as ghosts, makes a dead rig drop far more worth salvaging (the blocks you lost during the run, the Desiderator shell and leftover ammo), and renames the backpack to the cargo hold. 0.9.5 is still the minimum.",
   "server_host": "146.190.53.239",
   "server_port": 7000,
   "pck": {
-    "windows_x86_64": {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-windows-x86_64.pck", "sha256": "489ecfd35944025d91ad59737376c9aaca48cb7cbd226e90a6904c3908bcbc10", "size": 1813004},
-    "windows_arm64":  {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-windows-arm64.pck",  "sha256": "489ecfd35944025d91ad59737376c9aaca48cb7cbd226e90a6904c3908bcbc10", "size": 1813004},
-    "linux_x86_64":   {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-linux-x86_64.pck",   "sha256": "489ecfd35944025d91ad59737376c9aaca48cb7cbd226e90a6904c3908bcbc10", "size": 1813004},
-    "linux_arm64":    {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-linux-arm64.pck",    "sha256": "489ecfd35944025d91ad59737376c9aaca48cb7cbd226e90a6904c3908bcbc10", "size": 1813004}
+    "windows_x86_64": {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.6/Vextraction-windows-x86_64.pck", "sha256": "5a77a763558f3b6dbdb37f350549139035863c2cdaf6c40ec1d45a53f941cb9d", "size": 1813004},
+    "windows_arm64":  {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.6/Vextraction-windows-arm64.pck",  "sha256": "5a77a763558f3b6dbdb37f350549139035863c2cdaf6c40ec1d45a53f941cb9d", "size": 1813004},
+    "linux_x86_64":   {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.6/Vextraction-linux-x86_64.pck",   "sha256": "5a77a763558f3b6dbdb37f350549139035863c2cdaf6c40ec1d45a53f941cb9d", "size": 1813004},
+    "linux_arm64":    {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.6/Vextraction-linux-arm64.pck",    "sha256": "5a77a763558f3b6dbdb37f350549139035863c2cdaf6c40ec1d45a53f941cb9d", "size": 1813004}
   }
 }
