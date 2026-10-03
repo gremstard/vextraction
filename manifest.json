@@ -1,6 +1,14 @@
 {
-  "min_version": "0.9.4",
-  "latest": "0.9.4",
+  "min_version": "0.9.5",
+  "latest": "0.9.5",
   "url": "https://github.com/gremstard/vextraction/releases/latest",
-  "message": "0.9.4 is required. Builds before it shipped without the licence and terms documents, so their legal screen is blank. It also brings sandstorms you can see rolling in, a Crimson Vortex that is actually there, wind that moves your rounds more than gravity does, rebuilt DROPS and lightning, a world map on M, and a graphics quality setting."
+  "message": "0.9.5 is required. Vextraction now has a dedicated server and deployments are played on it, so everyone shares one world. Downloads are now two files per platform: keep the .pck next to the executable. After this update, updates are 1.8 MB instead of 106 MB and a damaged install can repair itself. The training ground still works offline.",
+  "server_host": "146.190.53.239",
+  "server_port": 7000,
+  "pck": {
+    "windows_x86_64": {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-windows-x86_64.pck", "sha256": "3c230829c4ad1490f04c1a62e5bc233cece1b0aaac83b030901833c619e0aab1", "size": 1813004},
+    "windows_arm64":  {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-windows-arm64.pck",  "sha256": "3c230829c4ad1490f04c1a62e5bc233cece1b0aaac83b030901833c619e0aab1", "size": 1813004},
+    "linux_x86_64":   {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-linux-x86_64.pck",   "sha256": "3c230829c4ad1490f04c1a62e5bc233cece1b0aaac83b030901833c619e0aab1", "size": 1813004},
+    "linux_arm64":    {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-linux-arm64.pck",    "sha256": "3c230829c4ad1490f04c1a62e5bc233cece1b0aaac83b030901833c619e0aab1", "size": 1813004}
+  }
 }
