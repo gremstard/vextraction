@@ -6,9 +6,9 @@
   "server_host": "146.190.53.239",
   "server_port": 7000,
   "pck": {
-    "windows_x86_64": {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-windows-x86_64.pck", "sha256": "3c230829c4ad1490f04c1a62e5bc233cece1b0aaac83b030901833c619e0aab1", "size": 1813004},
-    "windows_arm64":  {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-windows-arm64.pck",  "sha256": "3c230829c4ad1490f04c1a62e5bc233cece1b0aaac83b030901833c619e0aab1", "size": 1813004},
-    "linux_x86_64":   {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-linux-x86_64.pck",   "sha256": "3c230829c4ad1490f04c1a62e5bc233cece1b0aaac83b030901833c619e0aab1", "size": 1813004},
-    "linux_arm64":    {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-linux-arm64.pck",    "sha256": "3c230829c4ad1490f04c1a62e5bc233cece1b0aaac83b030901833c619e0aab1", "size": 1813004}
+    "windows_x86_64": {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-windows-x86_64.pck", "sha256": "489ecfd35944025d91ad59737376c9aaca48cb7cbd226e90a6904c3908bcbc10", "size": 1813004},
+    "windows_arm64":  {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-windows-arm64.pck",  "sha256": "489ecfd35944025d91ad59737376c9aaca48cb7cbd226e90a6904c3908bcbc10", "size": 1813004},
+    "linux_x86_64":   {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-linux-x86_64.pck",   "sha256": "489ecfd35944025d91ad59737376c9aaca48cb7cbd226e90a6904c3908bcbc10", "size": 1813004},
+    "linux_arm64":    {"url": "https://github.com/gremstard/vextraction/releases/download/v0.9.5/Vextraction-linux-arm64.pck",    "sha256": "489ecfd35944025d91ad59737376c9aaca48cb7cbd226e90a6904c3908bcbc10", "size": 1813004}
   }
 }
